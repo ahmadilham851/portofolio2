@@ -1,0 +1,24 @@
+[
+    {
+        "company": "PT MARIMAS PUTERA KENCANA",
+		"logo":"images/Logo Marimas.png",
+        "position": "maintenance, and modification of production equipment ",
+        "year": "2022 - Present",
+        "description": "Assisted in the fabrication, maintenance, and modification of production equipment. Involved in machine repairs, piping installations, and supporting the improvement of production line efficiency through mechanical and process engineering tasks."
+    },
+	{
+        "company": "Islamic Religious Education State Senior High School 13 Semarang",
+		"logo":"images/Logo Rohis.jpg",
+        "position": "Division Public Relations",
+        "year": "2017 - 2020",
+        "description": "Islamic Spiritual Extracurricular (ROHIS) is an organization engaged in the religious field as a form of self-development and extracurricular activities at SMAN 13 Semarang. In addition to improving the quality of faith / piety of students, Rohis SMAN 13 Semarang was formed in order to respond to the rapid progress of information and communication technology, so that students are expected to be able to avoid the influence of globalization that leads to reprehensible acts such as: free association, drug use and glamorous / luxurious lifestyles.."
+    },
+    {
+        "company": "SMA N 13 SEMARANG",
+		"logo":"images/Logo Futsal.jpg",
+        "position": "Goalkeeper",
+        "year": "2017 - 2020",
+        "description": "Control the quality of electronic part production for various printer models, analyze product defects, and provide recommendations to address issues or identify potential root causes."
+    }
+
+]

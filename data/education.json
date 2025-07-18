@@ -1,0 +1,16 @@
+[
+    {
+        "university": "Politeknik Negeri Semarang",
+		"logo": "images/polines-logo.png",
+        "major": "Electrical Enginering",
+        "year": "2022 - 2025",
+        "description": "GPA 3.1 of 4.0; Being part of Making an ESP32-Based Baby Incubator with OID Control and DWIN HMI Interface under the supervision of VINDA SETYA KARTIKA, S.T.,M.T "
+    },
+    {
+        "university": "SMA N 13 SEMARANG",
+		"logo": "images/Logo SMA.png",
+        "major": "Mipa",
+        "year": "2017 - 2020",
+        "description": "GPA 88.0 of 100; Focus on Mathematics and Natural Sciences, such as mathematics, physics, chemistry, and biology."
+    }
+]

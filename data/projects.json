@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Home Security System Using ESP32 Based on IoT",
+        "year": "2023",
+        "role": "Mechanical",
+        "description": "A home security system using the ESP32 microcontroller, based on the Internet of Things (IoT), can be implemented to enhance security through remote monitoring and automation.",
+        "image": "images/project1.jpg",
+        "link": "https://example.com/solar-water"
+    },
+    {
+        "title": "ANTI-THEFT ALARM CIRCUIT USING A TOUCH SENSOR",
+        "year": "2023",
+        "role": "Mechanical",
+        "description": "A safety prototype that can be placed anywhere due to its minimalist size. Protect valuable items from unwanted things.",
+        "image": "images/project2.jpg",
+        "link": "https://example.com/assembly-optimization"
+    },
+	{
+        "title": "AUTOMATIC FISH FEEDER AND AQUARIUM MAINTENANCE TOOL",
+        "year": "2023",
+        "role": "Mechanical",
+        "description": "A fish feeder that can be timed using a keypad. Automatic water turbidity purifier in fish aquarium.",
+        "image": "images/project3.jpg",
+        "link": "https://example.com/assembly-optimization"
+    },
+    {
+        "title": "Line Follower",
+        "year": "2023",
+        "role": "Mechanical",
+        "description": "A robot designed to follow the path of a predetermined line. The line here uses black color placed on a light colored surface. This robot uses an infrared sensor to detect the line and then drives the motor to walk along the path.",
+        "image": "images/project4.jpg",
+        "link": "https://example.com/solar-water"
+    },
+	{
+        "title": "PLC-Based Carton Stamping Machine Optimization PT Marimas Putera Kencana",
+        "year": "2024",
+        "role": "maintenance, and modification of production equipment",
+        "description": "Assisted in the fabrication, maintenance, and modification of production equipment. Involved in machine repairs, piping installations, and supporting the improvement of production line efficiency through mechanical and process engineering tasks.",
+        "image": "images/project5.jpg",
+        "link": "https://example.com/solar-water"
+    }
+	
+]

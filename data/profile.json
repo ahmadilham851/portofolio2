@@ -1,0 +1,35 @@
+{
+    "name": "Ahmad Ilham - Electronic Engineering",
+    "description": "Student with a passion for learning and applying their knowledge to their daily lives. Currently studying at Semarang State Polytechnic, majoring in electrical engineering and majoring in the diploma three study program in electronic engineering. This year is in the last semester and is focusing on making the final project. Proficient in making or understanding electronic circuits, arduino software programs and programmable logic control (PLC). Committed to continue learning about electrical science, industrial automation and the internet of things, and also willing to learn new knowledge that is not taught on campus. Strive to utilize the knowledge possessed in the field of electronics and internet of things and the spirit to continue to seek new knowledge in order to become a talented and committed young man.",
+    "profileImage": "images/Ahmad Ilham.jpg",
+    "email": "ahmadilhamm05@gmail.com",
+    "phone": "+62 (858) 766-55972",
+    "socialMedia": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://linkedin.com/in/ahmad-ilham-b07995375"
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/ahmadilham851"
+        },
+        {
+            "platform": "Instagram",
+            "url": "https://instagram.com/ahmadd_ilham"
+        }
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/cv Ilham kreatif.pdf",
+			"icon": "fas fa-file-pdf"
+	},
+    "skills": [
+    {"name": "Programable Logic Control", "icon": "fas fa-gear", "level": 80},
+    {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 80},
+    {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 80},
+	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 80},
+    {"name": "Web Programming", "icon": "fab fa-js", "level": 85},
+	{"name": "Project Management", "icon": "fas fa-list-check", "level": 95},
+	{"name": "Foreign Languages", "icon": "fas fa-language", "level": 85}
+    ]
+}
